@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm James Allison 👋
 
-<!--
-**jamesallison965/jamesallison965** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student focused on full-stack development, scalable web applications, and software architecture.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+Java • Python • PHP • JavaScript • React.js • Node.js • MongoDB • MySQL • Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Interests
+- Full-Stack Development
+- REST APIs
+- Software Architecture
+- Agile Development
+
+## 📫 Contact
+Email: jamesallison965@gmail.com
